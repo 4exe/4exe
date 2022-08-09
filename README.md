@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Srajan Rai</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4exe&label=Profile%20views&color=0e75b6&style=flat" alt="4exe" /> </p>
 
-- 🔭 I’m currently working on [Project Name](Project Link)
+- 🔭 I’m currently working on [Project Name](Project-Link)
 
 - 🌱 I’m currently learning **Frameworks, Courses**
 
-- 👯 I’m looking to collaborate on [Project Name](Project Link)
+- 👯 I’m looking to collaborate on [Project Name](Project-Link)
 
-- 🤝 I’m looking for help with [Project Name](Project Link)
+- 🤝 I’m looking for help with [Project Name](Project-Link)
 
-- 👨‍💻 All of my projects are available at [Projects Link](Projects Link)
+- 👨‍💻 All of my projects are available at [Projects Link](Projects-Link)
 
 - 💬 Ask me about **Languages, Skills**
 
 - 📫 How to reach me **srajangg@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](Resume Link)
+- 📄 Know about my experiences [Resume Link](Resume-Link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
